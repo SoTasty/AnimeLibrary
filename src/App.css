@@ -1,0 +1,10 @@
+.App {
+  font-size: 18px;
+  margin: 10% 0% 10% 10%;
+}
+
+.library {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5%;
+}
